@@ -5,10 +5,10 @@ This repository contains the reference implementation of the method described in
 To install, run `pip install .` from the root directory; dependencies are included in the `setup.py` file and should be installed automatically. 
 
 ### Re-creating Simulation Experiments from the Paper
-Navigate to the directory `Lipschitz-Driven-Inference/experiments/simulations`. To recreate experiments with the same settings as the paper, run `bash run.sh`. Results will be saved in `Lipschitz-Driven-Inference/experiments/simulations/results`.
+Navigate to the directory `LDI-NeurIPS/experiments/simulations`. To recreate experiments with the same settings as the paper, run `bash run.sh`. Results will be saved in `LDI-NeurIPS/experiments/simulations/results`.
 
 ### Re-creating Real Data Experiments from the Paper
-Navigate to the directory `Lipschitz-Driven-Inference/experiments/real_data`. To recreate experiments with the same settings as the paper, run `bash run.sh`. Results will be saved in `Lipschitz-Driven-Inference/experiments/real_data/results`. 
+Navigate to the directory `LDI-NeurIPS/experiments/real_data`. To recreate experiments with the same settings as the paper, run `bash run.sh`. Results will be saved in `LDI-NeurIPS/experiments/real_data/results`. 
 
 ### Data sources. 
 Data is downloaded from the Dropbox link provided in the readme of `https://github.com/Earth-Intelligence-Lab/uncertainty-quantification`. Relevant citations for using the real data:
